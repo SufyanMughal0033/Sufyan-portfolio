@@ -80,9 +80,9 @@ export default function Portfolio() {
                   ))}
                 </div>
                 <div className="mt-5 flex gap-3">
-                  <a href="#" onClick={(e) => e.preventDefault()} className="btn-outline !px-4 !py-2 text-xs flex-1">
+                  {/* <a href="#" onClick={(e) => e.preventDefault()} className="btn-outline !px-4 !py-2 text-xs flex-1">
                     <ExternalLink size={14} /> Live Demo
-                  </a>
+                  </a> */}
                   <a href="https://github.com/SufyanMughal0033" target="_blank" rel="noopener noreferrer" className="btn-outline !px-4 !py-2 text-xs flex-1">
                     <FaGithub size={14} /> GitHub
                   </a>
