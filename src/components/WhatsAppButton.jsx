@@ -1,7 +1,7 @@
 import { FaWhatsapp } from 'react-icons/fa';
 
 const WHATSAPP_LINK =
-  "https://wa.me/923172257608?text=" +
+  "https://wa.me/923287060442?text=" +
   encodeURIComponent("Hi Sufyan, I visited your website and I'm interested in your services. I'd like to discuss my project.");
 
 export default function WhatsAppButton() {

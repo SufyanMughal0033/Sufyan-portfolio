@@ -88,7 +88,7 @@ export default function Contact() {
               <div className="mt-4 space-y-4 text-sm">
                 <a href="tel:+923172257608" className="flex items-center gap-3 text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-accent">
                   <span className="flex h-9 w-9 items-center justify-center rounded-full bg-primary/10 dark:bg-accent/10 text-primary dark:text-accent"><Phone size={16} /></span>
-                  0317 2257608
+                  +92 328 7060 442
                 </a>
                 <a href="mailto:sufyanasghar2468@gmail.com" className="flex items-center gap-3 text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-accent">
                   <span className="flex h-9 w-9 items-center justify-center rounded-full bg-primary/10 dark:bg-accent/10 text-primary dark:text-accent"><Mail size={16} /></span>
