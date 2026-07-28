@@ -5,42 +5,46 @@ import GradientBlobs from '../components/GradientBlobs.jsx';
 import Reveal from '../components/Reveal.jsx';
 
 const projects = [
-  {
-    title: 'NovaCart — E-commerce Storefront',
-    desc: 'A fast, conversion-focused Shopify storefront with custom sections and upsell flows.',
-    tech: ['Shopify', 'Liquid', 'JavaScript'],
-    gradient: 'from-primary to-accent',
-  },
-  {
-    title: 'Meridian Consulting',
-    desc: 'A polished business website for a financial consulting firm with lead-capture forms.',
-    tech: ['React', 'Tailwind', 'EmailJS'],
-    gradient: 'from-accent to-success',
-  },
-  {
-    title: 'Pixelframe Studio',
-    desc: 'A portfolio site for a design studio, featuring case studies and scroll-triggered animations.',
-    tech: ['React', 'Framer Motion', 'Vite'],
-    gradient: 'from-success to-primary',
-  },
-  {
-    title: 'Launchpad SaaS Landing',
-    desc: 'A high-converting landing page for a SaaS product launch, A/B tested for signups.',
-    tech: ['React', 'Tailwind', 'Vercel'],
-    gradient: 'from-primary to-secondary',
-  },
-  {
-    title: 'The Daily Brief — Blog Platform',
-    desc: 'A modern, SEO-optimized blog and article platform with fast page loads.',
-    tech: ['React', 'Markdown', 'SEO'],
-    gradient: 'from-accent to-primary',
-  },
-  {
-    title: 'Urban Roast Coffee Co.',
-    desc: 'A warm, image-driven business website for a specialty coffee brand.',
-    tech: ['React', 'Tailwind', 'Framer Motion'],
-    gradient: 'from-success to-accent',
-  },
+{
+  title: 'TextUtils — Text Utility App',
+  desc: 'Transform your text with features like uppercase, lowercase, word count, character count, and more. Built with React, it offers a fast, responsive, and user-friendly text editing experience.',
+  tech: ['React', 'Bootstrap', 'JavaScript'],
+  gradient: 'from-primary to-accent',
+},
+{
+  title: 'WeatherSphere — Weather App',
+  desc: 'A modern weather application that provides real-time weather updates, temperature, humidity, wind speed, and detailed forecasts for any city worldwide.',
+  tech: ['React', 'OpenWeather API', 'Bootstrap'],
+  gradient: 'from-accent to-success',
+},
+{
+  title: 'TyreSpace — Premium Tyre Store',
+  desc: 'A professional tyre store website with responsive design, product showcase, service booking, customer reviews, and contact features for a seamless user experience.',
+  tech: ['React', 'Bootstrap', 'EmailJS'],
+  gradient: 'from-success to-primary',
+  upcoming: true,
+},
+{
+  title: 'UpComing Launchpad SaaS Landing',
+  desc: 'A high-converting landing page for a SaaS product launch, A/B tested for signups.',
+  tech: ['React', 'Tailwind', 'Vercel'],
+  gradient: 'from-primary to-secondary',
+  upcoming: true,
+},
+{
+  title: 'UpComing The Daily Brief — Blog Platform',
+  desc: 'A modern, SEO-optimized blog and article platform with fast page loads.',
+  tech: ['React', 'Markdown', 'SEO'],
+  gradient: 'from-accent to-primary',
+  upcoming: true,
+},
+{
+  title: 'UpComing Urban Roast Coffee Co.',
+  desc: 'A warm, image-driven business website for a specialty coffee brand.',
+  tech: ['React', 'Tailwind', 'Framer Motion'],
+  gradient: 'from-success to-accent',
+  upcoming: true,
+},
 ];
 
 export default function Portfolio() {
