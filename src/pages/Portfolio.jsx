@@ -82,7 +82,7 @@ export default function Portfolio() {
             <span className="eyebrow">Selected Work</span>
 
             <h1 className="mt-4 font-display text-4xl font-bold text-slate-900 dark:text-white sm:text-5xl">
-              My Portfolio
+              My Portfolioooo
             </h1>
 
             <p className="mx-auto mt-4 max-w-2xl text-slate-500 dark:text-slate-400">
