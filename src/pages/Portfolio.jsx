@@ -21,7 +21,7 @@ const projects = [
     tech: ['React', 'OpenWeather API', 'Bootstrap'],
     gradient: 'from-accent to-success',
 
-    live: 'https://illustrious-lebkuchen-94478f.netlify.app/',
+    live: 'https://illustrious-lebkuchen-94478f.netlify.app//',
     github: 'https://github.com/SufyanMughal0033/WeatherSphere',
   },
 
@@ -31,7 +31,7 @@ const projects = [
     tech: ['React', 'Bootstrap', 'EmailJS'],
     gradient: 'from-success to-primary',
 
-    live: 'https://moonlit-cucurucho-03d49a.netlify.app/',
+    live: 'https://moonlit-cucurucho-03d49a.netlify.app//',
     github: 'https://github.com/SufyanMughal0033/tyre-website',
   },
 
