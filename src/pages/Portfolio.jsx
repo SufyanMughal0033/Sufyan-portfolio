@@ -21,8 +21,8 @@ const projects = [
     tech: ['React', 'OpenWeather API', 'Bootstrap'],
     gradient: 'from-accent to-success',
 
-    live: '#',
-    github: '#',
+    live: 'https://illustrious-lebkuchen-94478f.netlify.app/',
+    github: 'https://github.com/SufyanMughal0033/WeatherSphere',
   },
 
   {
@@ -31,8 +31,8 @@ const projects = [
     tech: ['React', 'Bootstrap', 'EmailJS'],
     gradient: 'from-success to-primary',
 
-    live: '#',
-    github: '#',
+    live: 'https://moonlit-cucurucho-03d49a.netlify.app/',
+    github: 'https://github.com/SufyanMughal0033/tyre-website',
   },
 
   {
@@ -42,7 +42,7 @@ const projects = [
     gradient: 'from-success to-accent',
 
     live: 'https://superlative-bienenstitch-f4b316.netlify.app/',
-    github: '#',
+    github: 'https://github.com/SufyanMughal0033/coffee.co',
   },
 
   {
@@ -52,7 +52,7 @@ const projects = [
     gradient: 'from-primary to-secondary',
 
     live: '',
-    github: '#',
+    github: '',
   },
 
   {
@@ -62,7 +62,7 @@ const projects = [
     gradient: 'from-accent to-primary',
 
     live: '',
-    github: '#',
+    github: '',
   },
 ];
 
