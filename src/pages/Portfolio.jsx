@@ -25,6 +25,25 @@ const projects = [
     github: 'https://github.com/SufyanMughal0033/WeatherSphere',
   },
 
+ {
+    title: 'Gym Management — Gym App',
+    desc: 'A complete gym management system to track members, attendance, memberships, and monthly fee payments with ease Designed to help gym owners manage client records, renewals, and daily operations from one dashboard.',
+    tech: ['React', 'OpenWeather API', 'Bootstrap'],
+    gradient: 'from-accent to-success',
+
+    live: 'https://fanciful-shortbread-389d9f.netlify.app/',
+    github: 'https://github.com/SufyanMughal0033/Gym-management',
+  },
+   {
+    title: 'E—Mart - E-commerce store',
+    desc: 'A modern e-commerce platform for browsing products, managing carts, and placing secure online orders.',
+    tech: ['React', 'OpenWeather API', 'Bootstrap'],
+    gradient: 'from-accent to-success',
+
+    live: 'https://chimerical-douhua-9b6dbe.netlify.app/',
+    github: 'https://github.com/SufyanMughal0033/e-mart-sufyan',
+  },
+
   {
     title: 'TyreSpace — Premium Tyre Store',
     desc: 'A professional tyre store website with responsive design, product showcase, service booking, customer reviews, and contact features for a seamless user experience.',
