@@ -25,6 +25,17 @@ const projects = [
     github: 'https://github.com/SufyanMughal0033/WeatherSphere',
   },
 
+
+ {
+    title: 'RealEstate —Website ',
+    desc: 'A modern real estate platform to explore residential and commercial properties with advanced search and filteringUsers can view detailed listings, submit inquiries, and find the perfect property.',
+    tech: ['React', 'OpenWeather API', 'Bootstrap'],
+    gradient: 'from-accent to-success',
+
+    live: 'https://steady-sorbet-ef1829.netlify.app/',
+    github: 'https://github.com/SufyanMughal0033/Realestate',
+  },
+
  {
     title: 'Gym Management — Gym App',
     desc: 'A complete gym management system to track members, attendance, memberships, and monthly fee payments with ease Designed to help gym owners manage client records, renewals, and daily operations from one dashboard.',
@@ -54,6 +65,8 @@ const projects = [
     github: 'https://github.com/SufyanMughal0033/tyre-website',
   },
 
+
+  
   {
     title: 'Coffee Co.',
     desc: 'A warm, image-driven business website for a specialty coffee brand.',
